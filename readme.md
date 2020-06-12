@@ -22,7 +22,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:**   Google Chrome y Mozilla Firefox
 
-Para el funcionamiento en Dispositivos Móviles:
+Para el funcionamiento en Dispositivos Móviles Android:
 
 
 ![phone](https://github.com/LuigiHyde/Practicas-1-2-3/blob/master/GitHub%20Proyecto%20Smartphone.jpeg)
@@ -44,7 +44,7 @@ Para el funcionamiento en Dispositivos Móviles:
 Comienza con una animación con "Ink Colors" en avance y retroceso, revelando cada vez algo más de información a cerca del proyecto, así como del responsable. (Primera imagen a la arriba a la izquierda)
 Tras ello un menú nos muestra la galería( arriba a la derecha), el Quizz(abajo)  y los créditos. 
 
-![explicación](https://github.com/LuigiHyde/Practicas-1-2-3/blob/master/Explicaci%C3%B3n%20proyecto.jpg)
+[explicación](https://github.com/LuigiHyde/Practicas-1-2-3/blob/master/Explicaci%C3%B3n%20proyecto.jpg)
 
 
 
@@ -52,8 +52,7 @@ Tras ello un menú nos muestra la galería( arriba a la derecha), el Quizz(abajo
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
+!(https://github.com/LuigiHyde/Practicas-1-2-3/blob/master/Esquema%20de%20navegaci%C3%B3n.jpg)
 
 
 
