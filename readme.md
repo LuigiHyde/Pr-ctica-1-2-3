@@ -8,38 +8,31 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Portfolio Personal
 
-**Web:**   (url github.io)
+**Web:**  https://luigihyde.github.io/Practicas-1-2-3/PROYECTOLuigiMarianDafina.html
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Luigi Marian Dafina
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
-
+**Resumen** : Aquí vemos una pincelada (nunca mejor dicho) sobre las distintas disciplinas que se manejan en la facultad de bellas artes, mostrando alguno de los trabajos a cursar en este ámbito, así como en el de Estudios de Guitarra Clásica en el Conservatorio.
 **Estilo/género:**  Novela / juego / portfolio / documental... etc.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
-(insertar imágenes a resolucion de 100px alto)
+**Resolución:** 800x600px 
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Probado en:**   Google Chrome y Mozilla Firefox
+Para el funcionamiento en Dispositivos Móviles:
+https://github.com/LuigiHyde/Practicas-1-2-3/blob/master/GitHub%20Proyecto%20Smartphone.jpeg
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 30,5 MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 13/06/2020
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** 
 
 - Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
