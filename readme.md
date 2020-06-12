@@ -21,7 +21,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Resolución:** 800x600px 
 
 **Probado en:**   Google Chrome y Mozilla Firefox
+
 Para el funcionamiento en Dispositivos Móviles:
+
+
 (https://github.com/LuigiHyde/Practicas-1-2-3/blob/master/GitHub%20Proyecto%20Smartphone.jpeg)
 
 **Tamaño proyecto:** 30,5 MB
