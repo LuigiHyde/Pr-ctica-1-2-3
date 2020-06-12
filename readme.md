@@ -41,9 +41,10 @@ Para el funcionamiento en Dispositivos Móviles:
 
 ### 2.1 Storyboard: 
 
+Comienza con una animación con "Ink Colors" en avance y retroceso, revelando cada vez algo más de información a cerca del proyecto, así como del responsable. (Primera imagen a la arriba a la izquierda)
+Tras ello un menú nos muestra la galería( arriba a la derecha), el Quizz(abajo)  y los créditos. 
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+![explicación]https://github.com/LuigiHyde/Practicas-1-2-3/blob/master/Explicaci%C3%B3n%20proyecto.jpg
 
 
 
