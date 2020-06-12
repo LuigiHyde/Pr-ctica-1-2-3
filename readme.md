@@ -52,7 +52,7 @@ Tras ello un menú nos muestra la galería( arriba a la derecha), el Quizz(abajo
 
 
 
-!(https://github.com/LuigiHyde/Practicas-1-2-3/blob/master/Esquema%20de%20navegaci%C3%B3n.jpg)
+![esquema-diagrama](https://github.com/LuigiHyde/Practicas-1-2-3/blob/master/Esquema%20de%20navegaci%C3%B3n.jpg)
 
 
 
