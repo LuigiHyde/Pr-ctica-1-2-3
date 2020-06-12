@@ -44,7 +44,7 @@ Para el funcionamiento en Dispositivos Móviles:
 Comienza con una animación con "Ink Colors" en avance y retroceso, revelando cada vez algo más de información a cerca del proyecto, así como del responsable. (Primera imagen a la arriba a la izquierda)
 Tras ello un menú nos muestra la galería( arriba a la derecha), el Quizz(abajo)  y los créditos. 
 
-![explicación]https://github.com/LuigiHyde/Practicas-1-2-3/blob/master/Explicaci%C3%B3n%20proyecto.jpg
+![explicación](https://github.com/LuigiHyde/Practicas-1-2-3/blob/master/Explicaci%C3%B3n%20proyecto.jpg)
 
 
 
