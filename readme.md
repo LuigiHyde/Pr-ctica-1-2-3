@@ -56,33 +56,36 @@ Tras ello un menú nos muestra la galería( arriba a la derecha), el Quizz(abajo
 
 
 
-
-
-
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Se ha reaizado una serie de bocetos que han guiado el trabajo.
+Ha habidio una serie de modificaciones para ajustarlo a las exigencias requeridas.
+Se ha pedido opinión a distintos amigos y compañeros, ayudadndo así a comprobar la visualización 
+en distintos dispositivos.
 
 
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Portfolio visualizados en clase , de otros años.
+- Páginas web y obra de distintos artistas.
+
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto surge con la idea de suplir la ausencia de una página personal que mostrase el recorrido y dedicación hacia las distintas artes visuales ejercidas en la rama de Bellas Artes así como en la de la Guitarra Clásica.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+-Orientado a personal de contratación para la realización de encargos artísticos y musicales.
+-Orientado a personas que estén interesadas en la trayectoria académica y profesional.
+-Compañeros de clase.
 
 
 
@@ -90,27 +93,28 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+-Portolio
+   -INTRO
+      -Galería de trabajos.
+      -Créditos
+      -Encuesta artística y musical.
+    
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+-Falta de enlace del quizz con el porfolio.
+-Pregunta segunda del Quizz. Tras fallar o agotarse el tiempo tendría que llevar a la primera pregunta.
+-Ausencia de botón para regular el volúmen del sonido.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
+Creo que el proyecto consta de un buen planteamiento, pero los fallos de ejecución son muchos y variados...
+Me encantaría disponer de tiempo para arreglar y mejorar la interface, el funcionamiento añadiendo botones,
+haciendolo más intuitivo, opciones de mejora de sonido y regular volúmen...etc...
 
 
 
@@ -120,23 +124,33 @@ Este  proyecto es interesante porque ...
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+http://luigihyde.blogspot.com/
+https://www.tusclasesparticulares.com/blog/chitaraguitarraguitar
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
+* Musica: 
+"Danza Oriental II -Enrique Granados."
+Interpretación vídeo; "Cubanita-Flores Chaviano"
+Encuesta: "Statues. Harry Potter SoundTrack"
+
 * Imágenes:  
-* Tipografía
+
+Tomadas por el autor.
+
+* Tipografía:
+Arial
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Github.io
+-Adobe Animate
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2020
